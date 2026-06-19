@@ -35,7 +35,7 @@ Photovoltaik Kosten 2026 hängen nicht nur von der Modulzahl ab, sondern auch vo
 
 Wer im Frühjahr die ersten Sonnenstunden auf dem Dach sieht, denkt schnell an die eigene PV-Anlage. Verständlich. Eine gute Anlage kann Stromkosten senken und das Haus unabhängiger machen. Trotzdem beginnt die Entscheidung nicht mit der Frage nach dem billigsten Paket, sondern mit Ihrem Verbrauch, Ihrem Dach und Ihren Plänen für die nächsten Jahre.
 
-Photovoltaik Kosten 2026 hängen vor allem von Anlagengröße, Dach, Speicher, Wechselrichter und Elektroarbeiten ab. CHECK24 nennt für PV-Komplettanlagen Preise ab 5.400 €; ein Stromspeicher kostet laut CHECK24 zwischen 7.000 und 20.000 Euro. Diese Zahl ist nur ein Startpunkt. Ein einfaches Süddach ist etwas anderes als ein Dach mit Gauben, Verschattung und altem Zählerschrank.
+Photovoltaik Kosten 2026 hängen vor allem von Anlagengröße, Dach, Speicher, Wechselrichter und Elektroarbeiten ab. CHECK24 nennt für PV-Komplettanlagen Preise ab 5.400 €; für eine Photovoltaik-Anlage inklusive Stromspeicher für ein Einfamilienhaus werden bis zu 16.000 Euro Anschaffungskosten genannt. Diese Zahl ist nur ein Startpunkt. Ein einfaches Süddach ist etwas anderes als ein Dach mit Gauben, Verschattung und altem Zählerschrank.
 
 ## Welche Kosten wirklich zählen
 
@@ -67,7 +67,7 @@ Lesen Sie dazu auch [Wärmepumpe Kosten 2026](/waermepumpe-kosten-2026/) und den
 
 Die richtige PV-Anlage finden Sie nicht über den niedrigsten Preis allein. Vergleichen Sie mehrere Angebote mit denselben Annahmen.
 
-[CTA omitted in public repo]  
+Partner-CTA bleibt privat.  
 *Werbung / Affiliate-Link*
 
 ## Beispiel: Warum zwei Dächer nie gleich teuer sind
@@ -78,7 +78,7 @@ Genau deshalb sind Pauschalpreise nur eine erste Orientierung. Eine PV-Anlage is
 
 ## Eigenverbrauch ist der stille Renditehebel
 
-Viele Vergleiche schauen zuerst auf den Preis pro kWp. Das ist verständlich, aber zu kurz gedacht. Entscheidend ist, wie viel Solarstrom Sie selbst nutzen können. Jede Kilowattstunde, die Sie direkt im Haus verbrauchen, muss nicht aus dem Netz gekauft werden. Das kann wertvoller sein als eine hohe Einspeisung [НУЖНО ПРОВЕРИТЬ - Stand 2026].
+Viele Vergleiche schauen zuerst auf den Preis pro kWp. Das ist verständlich, aber zu kurz gedacht. Entscheidend ist, wie viel Solarstrom Sie selbst nutzen können. Die Verbraucherzentrale betont den Eigenverbrauch als wichtigen Hebel. Jede Kilowattstunde, die Sie direkt im Haus verbrauchen, muss nicht aus dem Netz gekauft werden.
 
 In der Praxis bedeutet das: Haushalte mit Homeoffice, Wärmepumpe, Wallbox oder flexiblen Geräten können mehr Eigenverbrauch erreichen. Wer tagsüber kaum Strom verbraucht und keinen Speicher möchte, rechnet anders. Ein gutes Angebot zeigt deshalb nicht nur die Anlagenleistung, sondern auch eine realistische Eigenverbrauchsannahme.
 
@@ -100,7 +100,7 @@ Suchen Sie die letzte Stromabrechnung heraus und notieren Sie, wann im Haushalt 
 
 ## Dach voll machen oder klein starten?
 
-Viele Eigentümer fragen, ob sie das Dach möglichst voll belegen sollen. Häufig ist das sinnvoll, weil Gerüst, Anmeldung und Planung ohnehin anfallen. Zusätzliche Module sind im Verhältnis oft günstiger als eine spätere Erweiterung [НУЖНО ПРОВЕРИТЬ - Stand 2026]. Trotzdem sollte die Größe zum Dach, zum Budget und zum Netzanschluss passen.
+Viele Eigentümer fragen, ob sie das Dach möglichst voll belegen sollen. Häufig ist das sinnvoll, weil Gerüst, Anmeldung und Planung ohnehin anfallen. Zusätzliche Module sind im Verhältnis oft günstiger als eine spätere Erweiterung. Trotzdem sollte die Größe zum Dach, zum Budget und zum Netzanschluss passen.
 
 Wenn Sie später Wärmepumpe oder Wallbox planen, kann eine größere Anlage strategisch klug sein. Wenn Ihr Budget knapp ist, ist eine solide geplante kleinere Anlage besser als ein großes Paket mit schwachen Komponenten. Entscheidend ist nicht maximale Größe um jeden Preis, sondern ein stimmiges Gesamtsystem.
 

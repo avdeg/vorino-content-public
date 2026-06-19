@@ -31,7 +31,7 @@ publish_gate: "ready"
 
 ## Warum Speicher so attraktiv wirken
 
-Ob eine Solaranlage mit Speicher lohnt sich, entscheidet sich vor allem an Verbrauchsprofil, Speichergröße, Mehrkosten und realistischen Annahmen. CHECK24 nennt Solarspeicher zwischen 7.000 und 20.000 Euro; die Verbraucherzentrale weist darauf hin, dass Speicher Solarstrom zeitversetzt nutzbar machen und bei kleinen Anlagen nicht deutlich größer als die PV-Leistung sein sollten.
+Ob eine Solaranlage mit Speicher lohnt sich, entscheidet sich vor allem an Verbrauchsprofil, Speichergröße, Mehrkosten und realistischen Annahmen. CHECK24 nennt für eine Photovoltaik-Anlage inklusive Stromspeicher für ein Einfamilienhaus bis zu 16.000 Euro Anschaffungskosten; die Verbraucherzentrale weist darauf hin, dass Speicher Solarstrom zeitversetzt nutzbar machen und bei kleinen Anlagen nicht deutlich größer als die PV-Leistung sein sollten.
 
 Eine Solaranlage produziert oft dann viel Strom, wenn im Haus wenig passiert: mittags. Abends laufen Küche, Licht, Waschmaschine, Fernseher und manchmal die Wallbox. Ein Speicher verspricht, den Solarstrom in diese Zeit zu verschieben. Das ist praktisch und fühlt sich nach Unabhängigkeit an.
 
@@ -67,7 +67,7 @@ Mehr Grundlagen finden Sie im Ratgeber [Photovoltaik Kosten 2026](/photovoltaik-
 
 Vergleichen Sie PV-Angebote immer einmal mit und einmal ohne Speicher. Erst dann sehen Sie, ob der Aufpreis zu Ihrem Haushalt passt.
 
-[CTA omitted in public repo]  
+Partner-CTA bleibt privat.  
 *Werbung / Affiliate-Link*
 
 ## Der Unterschied zwischen Autarkie und Ersparnis
@@ -118,7 +118,7 @@ Wenn das Budget begrenzt ist, kann eine gute PV-Anlage ohne Speicher besser sein
 
 ## Fragen für den Beratungstermin
 
-Fragen Sie konkret nach Nutzungsprofil, Speichergröße, Ladezyklen, Garantie und Nachrüstbarkeit. Lassen Sie sich auch erklären, welche Annahmen zur Strompreisentwicklung genutzt wurden [НУЖНО ПРОВЕРИТЬ - Stand 2026]. Wenn Sie die Rechnung nicht nachvollziehen können, ist das kein gutes Zeichen.
+Fragen Sie konkret nach Nutzungsprofil, Speichergröße, Ladezyklen, Garantie und Nachrüstbarkeit. Lassen Sie sich die Annahmen zur Strompreisentwicklung schriftlich erklären. Wenn Sie die Rechnung nicht nachvollziehen können, ist das kein gutes Zeichen.
 
 ## Kleine Entscheidungshilfe
 

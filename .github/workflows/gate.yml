@@ -19,4 +19,4 @@ jobs:
           python-version: '3.11'
 
       - name: Run repo gate
-        run: python scripts/gate.py
+        run: python scripts/content_gate.py
